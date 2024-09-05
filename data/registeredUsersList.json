@@ -1,0 +1,28 @@
+[{
+        "name": "Alice",
+        "id": 1,
+        "email": "alice@example.com",
+        "institutionType": "École primaire",
+        "institutionName": "Lolilol",
+        "password": "123456",
+        "validated": true
+    },
+    {
+        "name": "Bob",
+        "id": 2,
+        "email": "bob@example.com",
+        "institutionType": "École primaire",
+        "institutionName": "Roflocopter",
+        "password": "999999",
+        "validated": true
+    },
+    {
+        "name": "Charlie",
+        "id": 3,
+        "email": "charlie@example.com",
+        "institutionType": "École primaire",
+        "institutionName": "Peutetre",
+        "password": "111111",
+        "validated": true
+    }
+]
